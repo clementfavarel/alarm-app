@@ -10,13 +10,13 @@ J'ai donc décidé de créer une application qui me permettrait de créer des al
 
 L'application se présente comme suit :
 
-    - Une page de présentation (avec un bouton pour se connecter)
-    - Une page de connexion (avec possibilité de créer un compte)
-    - Une page création de compte (avec possibilité de se connecter)
-    - Une page d'accueil avec la liste des alarmes et un bouton pour en créer une nouvelle
-    - Une page de création d'alarme
-    - Une page de modification d'alarme (possibilité de supprimer l'alarme)
-    - Une page tableau de bord avec une analyse des données de l'application (heure de coucher, heure de lever, temps de sommeil, etc.)
+-   Une page de présentation (avec un bouton pour se connecter)
+-   Une page de connexion (avec possibilité de créer un compte)
+-   Une page création de compte (avec possibilité de se connecter)
+-   Une page d'accueil avec la liste des alarmes et un bouton pour en créer une nouvelle
+-   Une page de création d'alarme
+-   Une page de modification d'alarme (possibilité de supprimer l'alarme)
+-   Une page tableau de bord avec une analyse des données de l'application (heure de coucher, heure de lever, temps de sommeil, etc.)
 
 ## Installation
 
